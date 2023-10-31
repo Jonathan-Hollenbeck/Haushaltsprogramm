@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Haushaltprogramm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Haushaltprogramm_jar</output-path>
+    <root id="archive" name="Haushaltprogramm.jar">
+      <element id="module-output" name="Haushaltprogramm" />
+    </root>
+  </artifact>
+</component>
